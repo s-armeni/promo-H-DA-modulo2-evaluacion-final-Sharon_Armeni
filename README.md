@@ -6,7 +6,7 @@ En este repositorio se incluye la resolución del ejercicio final del Módulo 2 
 
 
 ## Base de Datos:
-La BBDD utilizada para el ejercicio es __Sakila__, una base de datos de ejemplo que simula el contexto de una tienda de alquiler de películas. Su estructura consta de varias tablas como customer, film, actor, rental, category, inventory, entre otras. Estas tablas contienen infomación sobre clientes, películas, disponibilidad de las mismas, actores, relación entre actores y películas y más. La información detallada sobre las tablas se encuentra en el archivo en Markdown que se incluye en este repositorio.
+La BBDD utilizada para el ejercicio es [__Sakila__](https://dev.mysql.com/doc/sakila/en/), una base de datos de ejemplo que simula el contexto de una tienda de alquiler de películas. Su estructura consta de varias tablas como customer, film, actor, rental, category, inventory, entre otras. Estas tablas contienen infomación sobre clientes, películas, disponibilidad de las mismas, actores, relación entre actores y películas y más. La información detallada sobre las tablas se encuentra en el archivo en Markdown que se incluye en este repositorio.
 
 ## Herramientas:
 MySQL Workbench  
