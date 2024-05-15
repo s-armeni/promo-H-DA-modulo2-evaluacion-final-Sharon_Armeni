@@ -15,4 +15,4 @@ GitHub
 ## Documentación:
 En este repositorio se incluye:  
 - El documento en [PDF](https://github.com/s-armeni/promo-H-DA-modulo2-evaluacion-final-Sharon_Armeni/blob/main/ejercicio-final-modulo-2-PROMO-H.pdf) con las pautas del ejercicio.
-- El archivo en Markdown con la información detallada de las tablas de la BBDD de Sakila
+- El [archivo en Markdown](https://github.com/s-armeni/promo-H-DA-modulo2-evaluacion-final-Sharon_Armeni/blob/main/detalle-bbdd-sakila.md) con la información detallada de las tablas de la BBDD de Sakila.
